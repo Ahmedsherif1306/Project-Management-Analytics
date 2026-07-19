@@ -202,10 +202,9 @@ The final dashboard includes:
 
 # Dashboard Preview
 
-> *(Add a screenshot here after uploading.)*
 
 ```
-Dashboard/dashboard.png
+![Dashboard](Screenshot.png)
 ```
 
 ---
