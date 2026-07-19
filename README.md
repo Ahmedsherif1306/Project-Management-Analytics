@@ -203,9 +203,9 @@ The final dashboard includes:
 # Dashboard Preview
 
 
-```
+
 ![Dashboard](Screenshot.png)
-```
+
 
 ---
 
